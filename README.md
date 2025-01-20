@@ -1,6 +1,1 @@
-<a href="https://github.com/kelseyprogrammer/kelseyprogrammer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelseyprogrammer/kelseyprogrammer/main/chrisreadmefile.svg">
-    <img alt="Chris Ament's GitHub Profile README" src="https://raw.githubusercontent.com/kelseyprogrammer/kelseyprogrammer/main/chrisreadmefileday.svg">
-  </picture>
-</a>
+![chrisreadmefile](https://github.com/user-attachments/assets/3aab44f1-c999-406e-9ea8-dd595db00c0c)
