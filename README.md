@@ -1,6 +1,8 @@
 <a href="https://github.com/kelseyprogrammer/kelseyprogrammer">
-  <img alt="Chris Ament's GitHub Profile README" src="https://raw.githubusercontent.com/kelseyprogrammer/kelseyprogrammer/main/chrisreadmefile.svg">
+  <img alt="Chris Ament's GitHub Profile README" src="https://raw.githubusercontent.com/kelseyprogrammer/kelseyprogrammer/main/chrisreadmefile%20day.svg">
 </a>
+
+![chris readmefile (1)](https://github.com/user-attachments/assets/ca4bc766-b604-48fb-b043-225750a7ce88)
 
 ## Christopher Ament
 **Front-End Developer** | St. Augustine, FL
@@ -46,7 +48,6 @@ Front-End Developer specializing in React, Next.js, and TypeScript. Experienced 
 Real-time event discovery with QR ticketing and Stripe payments
 
 #### **Pulse Clinic** - Patient Portal
-[![Repository](https://img.shields.io/badge/Repository-GitHub-black?style=flat&logo=github)](https://github.com/KelseyProgrammer/healthapp)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%20Compliant-green?style=flat)](https://www.w3.org/WAI/WCAG21/quickref/)
@@ -54,7 +55,6 @@ Real-time event discovery with QR ticketing and Stripe payments
 Accessibility-first patient portal with appointment booking
 
 #### **DevSync** - Project Management Tool
-[![Repository](https://img.shields.io/badge/Repository-GitHub-black?style=flat&logo=github)](https://github.com/KelseyProgrammer/DevSync)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
 [![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
 [![Performance](https://img.shields.io/badge/Performance-40%25%20Faster-brightgreen?style=flat)]()
