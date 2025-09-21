@@ -1,5 +1,5 @@
 <a href="https://github.com/kelseyprogrammer/kelseyprogrammer">
-  <img alt="Chris Ament's GitHub Profile README" src="https://raw.githubusercontent.com/kelseyprogrammer/kelseyprogrammer/main/chrisreadmefile%20day.svg">
+  <img alt="Chris Ament's GitHub Profile README" src="https://raw.githubusercontent.com/kelseyprogrammer/kelseyprogrammer/main/chrisreadmefile.svg">
 </a>
 
 ## Christopher Ament
